@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "coml2.dll",
+  "latest": "2188252060-1723CD23737D8335C38BBD3710F9EEB7-1",
+  "builds": [
+    {
+      "key": "2188252060-1723CD23737D8335C38BBD3710F9EEB7-1",
+      "timestamp": "2188252060",
+      "pdb_guid": "1723CD23737D8335C38BBD3710F9EEB7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2188252060-1723CD23737D8335C38BBD3710F9EEB7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
